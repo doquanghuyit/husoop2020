@@ -1,0 +1,3 @@
+rootProject.name='Hus Oop'
+include ':app'
+include ':androidsdk'
